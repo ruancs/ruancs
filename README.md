@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Ola, sou Ruan, adoro tecnologia, sou Desenvolvedor front-end, Web Design e atualmente estou focado em melhorar minhas habilidades com<strong> JavaScript, React e Angular </strong>.<br>
+  Ola, sou Ruan, adoro tecnologia, sou Desenvolvedor front-end, Web Design e atualmente estou focado em melhorar minhas habilidades com<strong> JavaScript,NodeJS, React e Angular </strong>.<br>
 </p>
 
 <p align="left">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VScode, Figma, Adobe Photoshop/Illustrator, Git</strong>
+  💼 Ferramentas: <strong> Ubuntu, Visual Studio Code, Figma, Adobe Photoshop/Illustrator, Git</strong>
 </p>
 
 <p align="left">
