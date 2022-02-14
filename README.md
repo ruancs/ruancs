@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, sou Ruan, trabalho com tecnologia em geral há mais de 10 anos; atualmente sou Desenvolvedor Front-end e Web Design estou focado em melhorar minhas habilidades com<strong> JavaScript, NodeJS, React e Angular </strong>.<br>
+  Olá, sou Ruan, trabalho com tecnologia em geral há mais de 10 anos; atualmente sou Desenvolvedor Front-end e Web Design.<br> 
+  Estou focado em melhorar minhas habilidades com<strong> JavaScript, NodeJS, React e Angular </strong>.<br>
 </p>
 
 <p align="left">
