@@ -15,7 +15,7 @@
 
 <p align="left">
   💌 Segue abaixo minhas redes sociais, fiquem à vontade para uma conexão e network para troca de ideias: ⤵️
-</p>
+:</p>
 
 <p align="left">
 
