@@ -2,15 +2,20 @@
 
 <p align="left"> 
   Olá, sou Ruan, trabalho com tecnologia em geral há mais de 10 anos; atualmente sou Desenvolvedor Front-end e Web Design.<br> 
-  Estou focado em melhorar minhas habilidades com<strong> JavaScript, NodeJS, React e Angular </strong>.<br>
+  Estou focado em melhorar minhas habilidades com<strong> JavaScript, NodeJS, React e Angular</strong>.<br>
+</p>
+
+<p align="left"> 
+ Hi, I'm Ruan, I've been working with technology in general for over 10 years; I am currently Front-end and Web Design Developer.<br>
+  I'm focused on improving my skills with <strong> JavaScript, NodeJS, React and Angular</strong>.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5, CSS3, JavaScript, Jquery</strong>
+  🦄 Linguagens/Languages: <strong>HTML5, CSS3, JavaScript, Jquery</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> Ubuntu, Visual Studio Code, Figma, Adobe Photoshop/Illustrator, Git</strong>
+  💼 Ferramentas/tools: <strong> Ubuntu, Visual Studio Code, Figma, Adobe Photoshop/Illustrator, Git</strong>
 </p>
 
 <p align="left">
