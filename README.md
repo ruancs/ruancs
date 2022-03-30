@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
- Hi, I'm Ruan, I've been working with technology in general for over 10 years; I am currently Front-end and Web Design Developer.<br>
+ Hi, I'm Ruan, I've been working with technology in general for over 10 years; I am currently Front-end Dev and Web Design.<br>
   I'm focused on improving my skills with <strong> JavaScript, NodeJS, React and Angular</strong>.<br>
 </p>
 
