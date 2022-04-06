@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, sou Ruan, trabalho com tecnologia em geral há mais de 10 anos; atualmente sou Desenvolvedor Front-end e Web Design.<br> 
-  Estou focado em melhorar minhas habilidades com<strong> JavaScript, NodeJS, React e Angular</strong>.<br>
+  Estou focado em melhorar minhas habilidades com<strong> JavaScript, NodeJS, PHP, React e Angular</strong>.<br>
 </p>
 
 <p align="left"> 
@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💌 Segue abaixo minhas redes sociais, fiquem à vontade para uma conexão e network para troca de ideias: ⤵️
+  💌 Segue abaixo minhas redes sociais, fiquem à vontade para uma conexão e networking para troca de ideias: ⤵️
 :</p>
 
 <p align="left">
