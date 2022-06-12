@@ -2,12 +2,12 @@
 
 <p align="left"> 
   Olá, sou Ruan, trabalho com tecnologia em geral há mais de 10 anos; atualmente sou Desenvolvedor Front-end e Web Design.<br> 
-  Estou focado em melhorar minhas habilidades com<strong> JavaScript, NodeJS, PHP, React e Angular</strong>.<br>
+  Estou focado em melhorar minhas habilidades com<strong> JavaScript, NodeJS e React</strong>.<br>
 </p>
 
 <p align="left"> 
  Hi, I'm Ruan, I've been working with technology in general for over 10 years; I am currently Front-end Dev and Web Design.<br>
-  I'm focused on improving my skills with <strong> JavaScript, NodeJS, React and Angular</strong>.<br>
+  I'm focused on improving my skills with <strong> JavaScript, NodeJS and React </strong>.<br>
 </p>
 
 <p align="left">
