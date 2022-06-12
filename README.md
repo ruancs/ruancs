@@ -11,11 +11,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens/Languages: <strong>HTML5, CSS3, JavaScript, Jquery</strong>
+  🦄 Linguagens/Languages: <strong>HTML5, CSS3, JavaScript, NodeJS, ReactJS</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas/tools: <strong> Ubuntu, Visual Studio Code, Figma, Adobe Photoshop/Illustrator, Git</strong>
+  💼 Ferramentas/tools: <strong> Windows, Ubuntu, Visual Studio Code, Figma, Adobe Photoshop/Illustrator, Git</strong>
 </p>
 
 <p align="left">
