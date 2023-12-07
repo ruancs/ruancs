@@ -69,6 +69,12 @@
             alt="React"
             data-canonical-src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB"
             style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow"
+        href="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+              <img
+            src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+            alt="MongoDB"
+            data-canonical-src="[https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)"
+            style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow"
         href="https://camo.githubusercontent.com/41326de293d3848e2ab0f29bf1680427128757fe6b586ceddf1097cb4eeb5ff7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65642d2d636f6d706f6e656e74732d4442373039333f7374796c653d666f722d7468652d6261646765266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465">
               <img
             src="https://camo.githubusercontent.com/d9952651b677177c9ec05802b314d09d9f34364fcdad7b939c2c999c745d31dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41706f6c6c6f4772617068514c2d3331314338373f7374796c653d666f722d7468652d6261646765266c6f676f3d61706f6c6c6f2d6772617068716c"
