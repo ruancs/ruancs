@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, sou Ruan, trabalho com tecnologia em geral há mais de 10 anos e como desenvolvedor há mais de 3 anos; atualmente sou Desenvolvedor web(front-end/back-end).<br> 
+  Olá, sou Ruan, trabalho com tecnologia em geral há mais de 10 anos e como desenvolvedor há mais de 4 anos; atualmente sou Desenvolvedor web(front-end/back-end).<br> 
   Estou focado em melhorar minhas habilidades com<strong> JavaScript, React, NodeJS e ExpressJs</strong>.<br>
 </p>
 
 <p align="left" > 
- Hi, I'm Ruan, I've been working with technology in general for over 10 years and over 3 as developer; I am currently Web developer(front-end/back-end).<br>
+ Hi, I'm Ruan, I've been working with technology in general for over 10 years and over 4 as developer; I am currently Web developer(front-end/back-end).<br>
   I'm focused on improving my skills with <strong> JavaScript, React, NodeJS and ExpressJs </strong>.<br>
 </p>
 
