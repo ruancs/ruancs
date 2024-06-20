@@ -60,6 +60,12 @@
             style="max-width: 100%;"></a>  <a target="_blank" rel="noopener noreferrer nofollow"
         href="https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642">
               <img
+            src="https://camo.githubusercontent.com/98095c9af5c40b889176693c5932a98879b49fcc297b7560a1923fd592f3deb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64656e6f2532306a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d64656e6f266c6f676f436f6c6f723d7768697465"
+            alt="DenoJS"
+            data-canonical-src="https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white"
+            style="max-width: 100%;"></a>  <a target="_blank" rel="noopener noreferrer nofollow"
+        href="https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642">
+              <img
             src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
             alt="ExpressJS"
             data-canonical-src="[https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)"
